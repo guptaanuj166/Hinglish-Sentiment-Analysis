@@ -1,0 +1,15 @@
+matplotlib==3.3.4
+nltk==3.6.1
+numpy==1.20.1
+pandas==1.2.4
+scipy==1.6.2
+seaborn==0.11.1
+scikit-learn==0.24.2
+ktrain==0.31.0
+tensorflow==2.8.0
+keras==2.8.0
+torch==1.11.0
+gensim==3.8.0
+tweet-preprocessor==0.6.0
+smart-open==1.7.0
+torchtext==0.12.0
